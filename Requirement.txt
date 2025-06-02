@@ -1,0 +1,16 @@
+!pip install crewai
+!pip install "crewai[tools]"
+!pip install openai
+!pip install serper
+!pip install pymupdf pdfminer six pillow-heif unstructured inference unstructured-pytesseract
+!apt-get install poppler-utils
+!apt install tesseract-OG
+!pip install langchain
+!pip install langchain-community
+!pip install -qU pypdf
+!pip install pdfminer.six
+!pip install unstructured-inference
+!pip install pi-heif!sudo apt install tesseract-ocr
+!sudo apt install libtesseract-dev
+!pip install pytesseract
+!pip install --upgrade pdfminer.six unstructured
